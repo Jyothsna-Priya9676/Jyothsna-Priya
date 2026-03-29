@@ -6,7 +6,7 @@
 ## 🌱 About Me  
 
 - 🎓 Undergrad student at Raghu Engineering College
-- 💻 learnt c,c++,java  
+- 💻 learnt c,java,Java Script,Python(basics),HTML5,CSS,ReactJS,NodeJS,ExpressJs,MongoDB  
 - 🌟 Interested in Web Development, Problem Solving, and Software Engineering  
 - 🎯 Goal: Build strong projects & land a top tech internship  
 - 📈 I believe in learning by building — step by step, consistently  
@@ -25,7 +25,7 @@
 - ExpressJS
 - ReactJS  
 - Python (Basics)  
-
+-MongoDB
 ### Tools & Platforms:
 - VS Code  
 - Git & GitHub  
@@ -39,7 +39,7 @@
 ## 📂 Featured Projects  
 
 ### 🌐 Portfolio Website  
-🔗 Live: https://hamsini-chinthagunta.github.io/portfolio-website/  
+🔗 Live: https://hamsini-chinthagunta.github.io/Weather-app/  
 🔗 Repo: https://github.com/hamsini-chinthagunta/portfolio-website  
 
 ---
