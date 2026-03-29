@@ -5,9 +5,8 @@
 
 ## 🌱 About Me  
 
-- 🎓 Undergrad student at SASTRA University  
+- 🎓 Undergrad student at Raghu Engineering College
 - 💻 learnt c,c++,java  
-- 🌐 Currently learning HTML, CSS, JavaScript, and DSA  
 - 🌟 Interested in Web Development, Problem Solving, and Software Engineering  
 - 🎯 Goal: Build strong projects & land a top tech internship  
 - 📈 I believe in learning by building — step by step, consistently  
@@ -17,10 +16,14 @@
 ## 🛠️ Tech Stack & Tools  
 
 ### Languages:
-- HTML5  
-- C  
-- C++  
-- Java  
+- C
+- Java
+- HTML5
+- CSS  
+- JavaScript
+- NodeJs
+- ExpressJS
+- ReactJS  
 - Python (Basics)  
 
 ### Tools & Platforms:
@@ -29,8 +32,6 @@
 - GitHub Pages  
 
 ### Currently Learning:
-- CSS  
-- JavaScript  
 - DSA  
 
 <hr style="border: 1px solid #30363d;">
