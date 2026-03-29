@@ -38,21 +38,52 @@
 
 ## 📂 Featured Projects  
 
-### 🌐 Portfolio Website  
-🔗 Live: https://hamsini-chinthagunta.github.io/Weather-app/  
-🔗 Repo: https://github.com/hamsini-chinthagunta/portfolio-website  
+<hr style="border: 1px solid #30363d;">
+
+## 📂 Featured Projects  
+
+### 🌦️ Weather App  
+A web app that shows real-time weather information using API.  
+🔗 Live: https://jyothsna-priya9676.github.io/Weather-app/  
+🔗 Repo: https://github.com/Jyothsna-Priya9676/Weather-app  
 
 ---
 
-### 🎂 Birthday Invite Website  
-🔗 Live: https://hamsini-chinthagunta.github.io/html-practice/  
-🔗 Repo: https://github.com/hamsini-chinthagunta/html-practice  
+### 📝 Notes App  
+A simple notes-taking app to create, save, and manage notes.  
+🔗 Live: https://jyothsna-priya9676.github.io/notes-project/  
+🔗 Repo: https://github.com/Jyothsna-Priya9676/notes-project  
 
 ---
 
-### ☕ My First Java Project  
-🔗 Repo: https://github.com/hamsini-chinthagunta/MyFirstJavaProject  
+### ✅ To-Do List App  
+A basic to-do list project to manage daily tasks efficiently.  
+🔗 Live: https://jyothsna-priya9676.github.io/basic-to-do-project/  
+🔗 Repo: https://github.com/Jyothsna-Priya9676/basic-to-do-project  
 
+---
+
+### 🔐 Password Generator  
+Generates strong and secure passwords dynamically.  
+🔗 Live: https://jyothsna-priya9676.github.io/passwordGenerator/  
+🔗 Repo: https://github.com/Jyothsna-Priya9676/passwordGenerator  
+
+---
+
+### 🧮 Calculator  
+A simple calculator for basic arithmetic operations.  
+🔗 Live: https://jyothsna-priya9676.github.io/calculator/  
+🔗 Repo: https://github.com/Jyothsna-Priya9676/calculator  
+
+---
+
+
+
+### 🌐 Portfolio Repository  
+My main GitHub profile repository.  
+🔗 Repo: https://github.com/Jyothsna-Priya9676/Jyothsna-Priya  
+
+<hr style="border: 1px solid #30363d;">
 <hr style="border: 1px solid #30363d;">
 
 ## 📫 Connect With Me  
