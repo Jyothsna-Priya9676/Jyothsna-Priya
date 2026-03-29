@@ -88,7 +88,7 @@ My main GitHub profile repository.
 
 ## 📫 Connect With Me  
 
-✉️ Email: hamsinichinthagunta7@gmail.com  
+✉️ Email: ardhamalajyothsnapriya@gmail.com
 
 <hr style="border: 1px solid #30363d;">
 
